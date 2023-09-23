@@ -1,0 +1,16 @@
+C:\Users\echir\Desktop\MYyProgs\NewSuperPuperSolSim\NewSuperPuperSolSim\bin\x64\SolSim1\NewSuperPuperSolSim.exe.config
+C:\Users\echir\Desktop\MYyProgs\NewSuperPuperSolSim\NewSuperPuperSolSim\bin\x64\SolSim1\NewSuperPuperSolSim.exe
+C:\Users\echir\Desktop\MYyProgs\NewSuperPuperSolSim\NewSuperPuperSolSim\obj\x64\SolSim1\MainWindow.g.cs
+C:\Users\echir\Desktop\MYyProgs\NewSuperPuperSolSim\NewSuperPuperSolSim\obj\x64\SolSim1\App.g.cs
+C:\Users\echir\Desktop\MYyProgs\NewSuperPuperSolSim\NewSuperPuperSolSim\obj\x64\SolSim1\NewSuperPuperSolSim_MarkupCompile.cache
+C:\Users\echir\Desktop\MYyProgs\NewSuperPuperSolSim\NewSuperPuperSolSim\obj\x64\SolSim1\NewSuperPuperSolSim_MarkupCompile.lref
+C:\Users\echir\Desktop\MYyProgs\NewSuperPuperSolSim\NewSuperPuperSolSim\obj\x64\SolSim1\MainWindow.baml
+C:\Users\echir\Desktop\MYyProgs\NewSuperPuperSolSim\NewSuperPuperSolSim\obj\x64\SolSim1\NewSuperPuperSolSim.g.resources
+C:\Users\echir\Desktop\MYyProgs\NewSuperPuperSolSim\NewSuperPuperSolSim\obj\x64\SolSim1\NewSuperPuperSolSim.Properties.Resources.resources
+C:\Users\echir\Desktop\MYyProgs\NewSuperPuperSolSim\NewSuperPuperSolSim\obj\x64\SolSim1\NewSuperPuperSolSim.csproj.GenerateResource.cache
+C:\Users\echir\Desktop\MYyProgs\NewSuperPuperSolSim\NewSuperPuperSolSim\obj\x64\SolSim1\NewSuperPuperSolSim.csproj.CoreCompileInputs.cache
+C:\Users\echir\Desktop\MYyProgs\NewSuperPuperSolSim\NewSuperPuperSolSim\obj\x64\SolSim1\NewSuperPuperSolSim.exe
+C:\Users\echir\Desktop\MYyProgs\NewSuperPuperSolSim\NewSuperPuperSolSim\obj\x64\SolSim1\NewSuperPuperSolSim.csproj.AssemblyReference.cache
+C:\Users\echir\Desktop\MYyProgs\NewSuperPuperSolSim\NewSuperPuperSolSim\obj\x64\SolSim1\WindowViorIamgePlnt.g.cs
+C:\Users\echir\Desktop\MYyProgs\NewSuperPuperSolSim\NewSuperPuperSolSim\obj\x64\SolSim1\NewSuperPuperSolSim_Content.g.cs
+C:\Users\echir\Desktop\MYyProgs\NewSuperPuperSolSim\NewSuperPuperSolSim\obj\x64\SolSim1\WindowViorIamgePlnt.baml

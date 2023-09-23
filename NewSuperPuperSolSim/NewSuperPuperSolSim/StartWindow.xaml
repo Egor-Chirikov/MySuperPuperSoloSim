@@ -1,0 +1,16 @@
+﻿<Window x:Class="NewSuperPuperSolSim.StartWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NewSuperPuperSolSim"
+        mc:Ignorable="d"
+        Title="StartWindow" Height="97" Width="230">
+    <Grid>
+        <ComboBox x:Name="ComboBox" HorizontalAlignment="Left" Margin="10,35,0,0" VerticalAlignment="Top" Width="120" Height="20"/>
+        <Button Content="Start" HorizontalAlignment="Left" Margin="135,35,0,0" VerticalAlignment="Top" Width="77" Height="20" Click="ButtonStartOld_Click"/>
+        <Button Content="Start new" HorizontalAlignment="Left" Margin="135,10,0,0" VerticalAlignment="Top" Width="77" Height="20" Click="ButtonStartNew_Click"/>
+        <TextBox x:Name="WorldNameFileTextBox"  HorizontalAlignment="Left"  Margin="10,10,0,0" TextWrapping="Wrap" Text="World Name" VerticalAlignment="Top" Width="120" Height="20"/>
+
+    </Grid>
+</Window>

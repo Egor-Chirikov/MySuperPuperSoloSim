@@ -1,0 +1,16 @@
+q1
+7,60594147741765E-07
+7,60594147741765E-07
+60000
+90,0024794998889
+90,0024794998889
+file:///C:/Users/echir/Desktop/MYyProgs/NewSuperPuperSolSim/NewSuperPuperSolSim/bin/x64/Debug/Images/Eth.png
+20
+q2
+-7,60594147741765E-07
+-7,60594147741765E-07
+60000
+199,997520500111
+199,997520500111
+file:///C:/Users/echir/Desktop/MYyProgs/NewSuperPuperSolSim/NewSuperPuperSolSim/bin/x64/Debug/Images/Eth.png
+20

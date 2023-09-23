@@ -1,0 +1,103 @@
+﻿<Window x:Class="NewSuperPuperSolSim.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NewSuperPuperSolSim"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800"
+        Closed="Window_Closed">
+    <Grid x:Name="MainGrid">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="30"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="30"></ColumnDefinition>
+            <ColumnDefinition Width="1*" ></ColumnDefinition>
+            <ColumnDefinition Width="30"></ColumnDefinition>
+            <ColumnDefinition Width="3"></ColumnDefinition>
+            <ColumnDefinition Width="0.30*" ></ColumnDefinition>
+            <ColumnDefinition Width="3"></ColumnDefinition>
+            <ColumnDefinition Width="0.30*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <Grid ClipToBounds="True"  Grid.Column="1" Grid.Row="1">
+            <Grid x:Name="Fild" ClipToBounds="True" Width="1000" Height="1000" >
+                <Image x:Name="A1" Width="20" Height="20" Source="pack://application:,,,/Images/hole.jpg" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="236,181,0,0" />
+                <Image x:Name="A2" Width="20" Height="20" Source="pack://application:,,,/Images/hole.jpg" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="169,134,0,0"/>
+               
+            </Grid>
+        </Grid>
+
+        <RepeatButton Grid.Row="0" Grid.Column="0" Content="up" Grid.ColumnSpan="2" Click="Button_Click_Up"/>
+        <RepeatButton Grid.Row="2" Grid.Column="1" Content="down" Grid.ColumnSpan="2" Click="Button_Click_Down"/>
+        <RepeatButton Grid.Row="1" Grid.Column="0" Content="left" Grid.RowSpan="2" Click="Button_Click_Left"/>
+        <RepeatButton Grid.Row="0" Grid.Column="2" Content="right" Grid.RowSpan="2" Click="Button_Click_Right"/>
+
+
+        <Grid Grid.Row="1" Grid.Column="4">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+
+            <Label x:Name="CorPos" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" Content="Planet values:"/>
+            <Label HorizontalAlignment="Left"  Grid.Row="1" Grid.Column="0" Content="Name:" />
+            <Label HorizontalAlignment="Left"  Grid.Row="2" Grid.Column="0" Content="X:"/>
+            <Label HorizontalAlignment="Left"  Grid.Row="3" Grid.Column="0" Content="Y:" />
+            <Label HorizontalAlignment="Left"  Grid.Row="4" Grid.Column="0" Content="Vx:" />
+            <Label HorizontalAlignment="Left"  Grid.Row="5" Grid.Column="0" Content="Vy:"/>
+            <Label HorizontalAlignment="Left"  Grid.Row="6" Grid.Column="0" Content="M:" />
+            <Label HorizontalAlignment="Left"  Grid.Row="7" Grid.Column="0" Content="Radius:"/>
+            <Label HorizontalAlignment="Left"  Grid.Row="8" Grid.Column="0" Content="Picture:"  MouseLeftButtonDown="PlanetImage_MouseLeftButtonDown"/>
+
+            <Image x:Name="PlanetImage" Grid.Row="8" Grid.Column="1" MouseLeftButtonDown="PlanetImage_MouseLeftButtonDown"/>
+            <TextBox x:Name="TextBoxName" Grid.Row="1" Grid.Column="1" />
+            <TextBox x:Name="TextBoxX" Grid.Row="2" Grid.Column="1" />
+            <TextBox x:Name="TextBoxY" Grid.Row="3" Grid.Column="1" />
+            <TextBox x:Name="TextBoxVx" Grid.Row="4" Grid.Column="1"/>
+            <TextBox x:Name="TextBoxVy" Grid.Row="5" Grid.Column="1" />
+            <TextBox x:Name="TextBoxM" Grid.Row="6" Grid.Column="1"/>
+            <TextBox x:Name="TextRad" Grid.Row="7" Grid.Column="1"/>
+            
+
+        </Grid>
+        <Rectangle Fill="Gray" Grid.Row="0" Grid.Column="3" Grid.RowSpan="3"/>
+        <Rectangle Fill="Gray" Grid.Row="1" Grid.Column="5" Grid.RowSpan="3"/>
+        <Button x:Name="ButtonOfAddPlanet" Content="Add Planet" Grid.Row="3" Grid.Column="4" Click="Button_Click_Add_Planet"/>
+        <Button x:Name="ButtonOfChangePlanet" Visibility="Collapsed" Content="Change Planet" Grid.Row="3" Grid.Column="4" Click="Button_Click_Change_Planet"/>
+        <Grid Grid.Row="1" Grid.Column="6">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="1*"></RowDefinition>
+                <RowDefinition Height="7*"></RowDefinition>
+            </Grid.RowDefinitions>
+            <Label VerticalAlignment="Top"  Content="List of planets:"/>
+            <ListBox x:Name="ListOfPlanet" Grid.Row="1" MouseDoubleClick="ListOfPlanet_MouseDoubleClick"/>
+        </Grid>
+
+        <Button Content="Delete Planet" Grid.Row="2" Grid.Column="6" Click="Button_Click_Delete_Planet"/>
+        <Button Content="Stop/Start" Grid.Row="0" Grid.Column="4" Click="Button_Click_Stop_Start"/>
+        <Grid Grid.Row="0" Grid.Column="5" Grid.ColumnSpan="6" KeyUp="Grid_KeyUp">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Label Grid.Column="0" Content="Time Warp:" />
+            <TextBox x:Name="TextBoxWrap" Grid.Column="1" Text="20"/>
+        </Grid>
+
+    </Grid>
+</Window>

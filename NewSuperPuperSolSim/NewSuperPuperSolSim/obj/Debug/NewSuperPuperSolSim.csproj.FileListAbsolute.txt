@@ -1,0 +1,56 @@
+C:\Users\echir\Desktop\MYyProgs\NewSuperPuperSolSim\NewSuperPuperSolSim\bin\Debug\NewSuperPuperSolSim.exe.config
+C:\Users\echir\Desktop\MYyProgs\NewSuperPuperSolSim\NewSuperPuperSolSim\bin\Debug\NewSuperPuperSolSim.exe
+C:\Users\echir\Desktop\MYyProgs\NewSuperPuperSolSim\NewSuperPuperSolSim\bin\Debug\NewSuperPuperSolSim.pdb
+C:\Users\echir\Desktop\MYyProgs\NewSuperPuperSolSim\NewSuperPuperSolSim\obj\Debug\MainWindow.g.cs
+C:\Users\echir\Desktop\MYyProgs\NewSuperPuperSolSim\NewSuperPuperSolSim\obj\Debug\App.g.cs
+C:\Users\echir\Desktop\MYyProgs\NewSuperPuperSolSim\NewSuperPuperSolSim\obj\Debug\NewSuperPuperSolSim_MarkupCompile.cache
+C:\Users\echir\Desktop\MYyProgs\NewSuperPuperSolSim\NewSuperPuperSolSim\obj\Debug\NewSuperPuperSolSim_MarkupCompile.lref
+C:\Users\echir\Desktop\MYyProgs\NewSuperPuperSolSim\NewSuperPuperSolSim\obj\Debug\MainWindow.baml
+C:\Users\echir\Desktop\MYyProgs\NewSuperPuperSolSim\NewSuperPuperSolSim\obj\Debug\NewSuperPuperSolSim.g.resources
+C:\Users\echir\Desktop\MYyProgs\NewSuperPuperSolSim\NewSuperPuperSolSim\obj\Debug\NewSuperPuperSolSim.Properties.Resources.resources
+C:\Users\echir\Desktop\MYyProgs\NewSuperPuperSolSim\NewSuperPuperSolSim\obj\Debug\NewSuperPuperSolSim.csproj.GenerateResource.cache
+C:\Users\echir\Desktop\MYyProgs\NewSuperPuperSolSim\NewSuperPuperSolSim\obj\Debug\NewSuperPuperSolSim.csproj.CoreCompileInputs.cache
+C:\Users\echir\Desktop\MYyProgs\NewSuperPuperSolSim\NewSuperPuperSolSim\obj\Debug\NewSuperPuperSolSim.exe
+C:\Users\echir\Desktop\MYyProgs\NewSuperPuperSolSim\NewSuperPuperSolSim\obj\Debug\NewSuperPuperSolSim.pdb
+C:\Users\echir\Desktop\MYyProgs\NewSuperPuperSolSim\NewSuperPuperSolSim\obj\Debug\NewSuperPuperSolSim.csproj.AssemblyReference.cache
+C:\Users\echir\Desktop\флешка + проект + дрова принтер\Proek2Prill\ISXOD\NewSuperPuperSolSim\NewSuperPuperSolSim\bin\Debug\NewSuperPuperSolSim.exe.config
+C:\Users\echir\Desktop\флешка + проект + дрова принтер\Proek2Prill\ISXOD\NewSuperPuperSolSim\NewSuperPuperSolSim\bin\Debug\NewSuperPuperSolSim.exe
+C:\Users\echir\Desktop\флешка + проект + дрова принтер\Proek2Prill\ISXOD\NewSuperPuperSolSim\NewSuperPuperSolSim\bin\Debug\NewSuperPuperSolSim.pdb
+C:\Users\echir\Desktop\флешка + проект + дрова принтер\Proek2Prill\ISXOD\NewSuperPuperSolSim\NewSuperPuperSolSim\obj\Debug\NewSuperPuperSolSim.csproj.AssemblyReference.cache
+C:\Users\echir\Desktop\флешка + проект + дрова принтер\Proek2Prill\ISXOD\NewSuperPuperSolSim\NewSuperPuperSolSim\obj\Debug\NewSuperPuperSolSim.csproj.SuggestedBindingRedirects.cache
+C:\Users\echir\Desktop\флешка + проект + дрова принтер\Proek2Prill\ISXOD\NewSuperPuperSolSim\NewSuperPuperSolSim\obj\Debug\MainWindow.g.cs
+C:\Users\echir\Desktop\флешка + проект + дрова принтер\Proek2Prill\ISXOD\NewSuperPuperSolSim\NewSuperPuperSolSim\obj\Debug\StartWindow.g.cs
+C:\Users\echir\Desktop\флешка + проект + дрова принтер\Proek2Prill\ISXOD\NewSuperPuperSolSim\NewSuperPuperSolSim\obj\Debug\WindowViorIamgePlnt.g.cs
+C:\Users\echir\Desktop\флешка + проект + дрова принтер\Proek2Prill\ISXOD\NewSuperPuperSolSim\NewSuperPuperSolSim\obj\Debug\App.g.cs
+C:\Users\echir\Desktop\флешка + проект + дрова принтер\Proek2Prill\ISXOD\NewSuperPuperSolSim\NewSuperPuperSolSim\obj\Debug\NewSuperPuperSolSim_Content.g.cs
+C:\Users\echir\Desktop\флешка + проект + дрова принтер\Proek2Prill\ISXOD\NewSuperPuperSolSim\NewSuperPuperSolSim\obj\Debug\NewSuperPuperSolSim_MarkupCompile.cache
+C:\Users\echir\Desktop\флешка + проект + дрова принтер\Proek2Prill\ISXOD\NewSuperPuperSolSim\NewSuperPuperSolSim\obj\Debug\NewSuperPuperSolSim_MarkupCompile.lref
+C:\Users\echir\Desktop\флешка + проект + дрова принтер\Proek2Prill\ISXOD\NewSuperPuperSolSim\NewSuperPuperSolSim\obj\Debug\MainWindow.baml
+C:\Users\echir\Desktop\флешка + проект + дрова принтер\Proek2Prill\ISXOD\NewSuperPuperSolSim\NewSuperPuperSolSim\obj\Debug\StartWindow.baml
+C:\Users\echir\Desktop\флешка + проект + дрова принтер\Proek2Prill\ISXOD\NewSuperPuperSolSim\NewSuperPuperSolSim\obj\Debug\WindowViorIamgePlnt.baml
+C:\Users\echir\Desktop\флешка + проект + дрова принтер\Proek2Prill\ISXOD\NewSuperPuperSolSim\NewSuperPuperSolSim\obj\Debug\NewSuperPuperSolSim.g.resources
+C:\Users\echir\Desktop\флешка + проект + дрова принтер\Proek2Prill\ISXOD\NewSuperPuperSolSim\NewSuperPuperSolSim\obj\Debug\NewSuperPuperSolSim.Properties.Resources.resources
+C:\Users\echir\Desktop\флешка + проект + дрова принтер\Proek2Prill\ISXOD\NewSuperPuperSolSim\NewSuperPuperSolSim\obj\Debug\NewSuperPuperSolSim.csproj.GenerateResource.cache
+C:\Users\echir\Desktop\флешка + проект + дрова принтер\Proek2Prill\ISXOD\NewSuperPuperSolSim\NewSuperPuperSolSim\obj\Debug\NewSuperPuperSolSim.csproj.CoreCompileInputs.cache
+C:\Users\echir\Desktop\флешка + проект + дрова принтер\Proek2Prill\ISXOD\NewSuperPuperSolSim\NewSuperPuperSolSim\obj\Debug\NewSuperPuperSolSim.exe
+C:\Users\echir\Desktop\флешка + проект + дрова принтер\Proek2Prill\ISXOD\NewSuperPuperSolSim\NewSuperPuperSolSim\obj\Debug\NewSuperPuperSolSim.pdb
+D:\ISXOD\NewSuperPuperSolSim\NewSuperPuperSolSim\bin\Debug\NewSuperPuperSolSim.exe.config
+D:\ISXOD\NewSuperPuperSolSim\NewSuperPuperSolSim\bin\Debug\NewSuperPuperSolSim.exe
+D:\ISXOD\NewSuperPuperSolSim\NewSuperPuperSolSim\bin\Debug\NewSuperPuperSolSim.pdb
+D:\ISXOD\NewSuperPuperSolSim\NewSuperPuperSolSim\obj\Debug\NewSuperPuperSolSim.csproj.AssemblyReference.cache
+D:\ISXOD\NewSuperPuperSolSim\NewSuperPuperSolSim\obj\Debug\MainWindow.g.cs
+D:\ISXOD\NewSuperPuperSolSim\NewSuperPuperSolSim\obj\Debug\StartWindow.g.cs
+D:\ISXOD\NewSuperPuperSolSim\NewSuperPuperSolSim\obj\Debug\WindowViorIamgePlnt.g.cs
+D:\ISXOD\NewSuperPuperSolSim\NewSuperPuperSolSim\obj\Debug\App.g.cs
+D:\ISXOD\NewSuperPuperSolSim\NewSuperPuperSolSim\obj\Debug\NewSuperPuperSolSim_Content.g.cs
+D:\ISXOD\NewSuperPuperSolSim\NewSuperPuperSolSim\obj\Debug\NewSuperPuperSolSim_MarkupCompile.cache
+D:\ISXOD\NewSuperPuperSolSim\NewSuperPuperSolSim\obj\Debug\NewSuperPuperSolSim_MarkupCompile.lref
+D:\ISXOD\NewSuperPuperSolSim\NewSuperPuperSolSim\obj\Debug\MainWindow.baml
+D:\ISXOD\NewSuperPuperSolSim\NewSuperPuperSolSim\obj\Debug\StartWindow.baml
+D:\ISXOD\NewSuperPuperSolSim\NewSuperPuperSolSim\obj\Debug\WindowViorIamgePlnt.baml
+D:\ISXOD\NewSuperPuperSolSim\NewSuperPuperSolSim\obj\Debug\NewSuperPuperSolSim.g.resources
+D:\ISXOD\NewSuperPuperSolSim\NewSuperPuperSolSim\obj\Debug\NewSuperPuperSolSim.Properties.Resources.resources
+D:\ISXOD\NewSuperPuperSolSim\NewSuperPuperSolSim\obj\Debug\NewSuperPuperSolSim.csproj.GenerateResource.cache
+D:\ISXOD\NewSuperPuperSolSim\NewSuperPuperSolSim\obj\Debug\NewSuperPuperSolSim.csproj.CoreCompileInputs.cache
+D:\ISXOD\NewSuperPuperSolSim\NewSuperPuperSolSim\obj\Debug\NewSuperPuperSolSim.exe
+D:\ISXOD\NewSuperPuperSolSim\NewSuperPuperSolSim\obj\Debug\NewSuperPuperSolSim.pdb

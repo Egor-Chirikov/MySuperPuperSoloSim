@@ -1,0 +1,8 @@
+C:\Users\echir\Desktop\MYyProgs\NewSuperPuperSolSim\NewSuperPuperSolSim\obj\x64\Release\NewSuperPuperSolSim.csproj.AssemblyReference.cache
+C:\Users\echir\Desktop\MYyProgs\NewSuperPuperSolSim\NewSuperPuperSolSim\obj\x64\Release\MainWindow.g.cs
+C:\Users\echir\Desktop\MYyProgs\NewSuperPuperSolSim\NewSuperPuperSolSim\obj\x64\Release\StartWindow.g.cs
+C:\Users\echir\Desktop\MYyProgs\NewSuperPuperSolSim\NewSuperPuperSolSim\obj\x64\Release\WindowViorIamgePlnt.g.cs
+C:\Users\echir\Desktop\MYyProgs\NewSuperPuperSolSim\NewSuperPuperSolSim\obj\x64\Release\App.g.cs
+C:\Users\echir\Desktop\MYyProgs\NewSuperPuperSolSim\NewSuperPuperSolSim\obj\x64\Release\NewSuperPuperSolSim_Content.g.cs
+C:\Users\echir\Desktop\MYyProgs\NewSuperPuperSolSim\NewSuperPuperSolSim\obj\x64\Release\NewSuperPuperSolSim_MarkupCompile.cache
+C:\Users\echir\Desktop\MYyProgs\NewSuperPuperSolSim\NewSuperPuperSolSim\obj\x64\Release\NewSuperPuperSolSim_MarkupCompile.lref
